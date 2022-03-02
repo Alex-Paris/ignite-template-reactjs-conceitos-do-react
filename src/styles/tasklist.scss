@@ -25,6 +25,11 @@ section.task-list {
 
       background: #fff;
       font-size: 16px;
+
+      i {
+        margin-right: 10px;
+        color: var(--red);
+      }
       
       input {
         flex: 1;
